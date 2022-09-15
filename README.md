@@ -1,3 +1,3 @@
 # Flutter-Calculator
 
-Using Android studio ,Dart and Flutter 
+Calculator app sing Android studio ,Dart and Flutter 
